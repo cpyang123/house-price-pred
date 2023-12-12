@@ -1,2 +1,5 @@
-# house-price-pred
-Short example EDA and Modeling notebook using Kaggle data
+# House Price Predictions
+This repository contains a short example notebook used to perform EDA and a simple tree model with XGBoost. 
+
+
+
